@@ -68,28 +68,6 @@ The trained model, model card, and gameplay replay are available on Hugging Face
 6. Publish the model to Hugging Face Hub.
 7. Validate performance using the official leaderboard.
 
-## Running the Project
-
-Install the dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run training:
-
-```bash
-python src/train.py
-```
-
-Evaluate the model:
-
-```bash
-python src/evaluate.py
-```
-
-See the training notebook in `notebooks/` for the complete Colab workflow.
-
 ## Learning Outcomes
 
 - Understanding the reinforcement learning agent-environment interaction loop.
