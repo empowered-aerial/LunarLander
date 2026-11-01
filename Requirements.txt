@@ -1,0 +1,7 @@
+gymnasium[box2d]==0.29.1
+stable-baselines3==2.3.2
+huggingface_sb3==3.0
+huggingface-hub==0.36.2
+moviepy
+imageio
+imageio-ffmpeg
